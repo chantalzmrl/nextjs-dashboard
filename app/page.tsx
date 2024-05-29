@@ -20,7 +20,7 @@ export default function Page() {
           <div
             className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-red-400 border-r-green-500"
           />
-          tral
+
           <div className={styles.shape} />
           <p className={`text-xl text-gray-800 md:text-3xl md:leading-normal`}>
             <strong>Welcome to Acme.</strong> This is the example for the{' '}
